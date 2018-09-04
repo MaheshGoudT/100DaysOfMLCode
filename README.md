@@ -19,7 +19,7 @@ This repository is for the [#100DaysOfMLCode](https://www.youtube.com/watch?v=cu
 ## Week 3
 - Attended LA Big Data Day / DataCon 2018 (https://www.bigdatadayla.com/)
 - https://medium.com/mlreview/how-to-apply-distance-metric-learning-for-street-to-shop-problem-d21247723d2a
-- perceptual hash is cool (aHash, PHash)
+	- Perceptual hash is cool (aHash, PHash)
 - Browsed through Neural Arithmetic Logic Unit (Deepmind Paper)
 
 ## Week 4
