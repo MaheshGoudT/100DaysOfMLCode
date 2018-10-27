@@ -44,3 +44,11 @@ This repository is for the [#100DaysOfMLCode](https://www.youtube.com/watch?v=cu
 
 ## Week 7
 - Purchased NIPS 2018 tickets :)
+- https://medium.freecodecamp.org/an-intro-to-advantage-actor-critic-methods-lets-play-sonic-the-hedgehog-86d6240171d
+- https://cdn.oreillystatic.com/en/assets/1/event/282/Achieving%20personalization%20with%20LSTMs%20Presentation.pdf
+- https://medium.com/@keremturgutlu/semantic-segmentation-u-net-part-1-d8d6f6005066
+- http://www.jtrive.com/loess-nonparametric-scatterplot-smoothing-in-python.html
+- https://towardsdatascience.com/advanced-reinforcement-learning-6d769f529eb3
+
+
+
